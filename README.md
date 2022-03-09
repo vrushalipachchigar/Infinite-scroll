@@ -7,6 +7,8 @@ It just a basic webpage having infinite scroll made with JSON placeholder fake R
 
 JSON placeholder gives dummy data which can be very useful for testing without having to use any secret API key.
 
+
+
 ### Tools and Technologies:
 
 <p>
